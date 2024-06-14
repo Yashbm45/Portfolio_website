@@ -7,28 +7,28 @@ function Projects() {
       name: "Crop Prediction System.",
       image: "https://i.ytimg.com/vi/okclK7AzCBQ/maxresdefault.jpg",
       github: "https://github.com/Yashbm45/Crop-Prediction-System",
-      live: "https://malwaredetectionusingml.streamlit.app/",
+      live: "https://github.com/Yashbm45/Crop-Prediction-System",
       description:
         "This system predicts the best crop to grow based on various parameters like soil type, weather conditions, and more.",
     },
     {
       id: 2,
-      name: "Blogify - Spring Boot Application.",
+      name: "YouTube Backend- JavaScript",
       image:
-        "https://img.freepik.com/free-vector/organic-flat-blog-post-illustration-with-people_23-2148955260.jpg?w=996&t=st=1717049137~exp=1717049737~hmac=e9573249c54b49a4d699e0222c76f6b61c008a6ec4028395ac5047a138f97425",
-      github: "https://github.com/KunalBhat55/LiveWeatherApp",
-      live: "https://liveweather-webapp.onrender.com/",
+        "https://www.freepik.com/free-vector/youtube-player-icon-with-flat-design_2448079.htm#fromView=search&page=1&position=0&uuid=01be4547-0ce0-4e75-99c5-629c9b463a0e",
+      github: "https://github.com/Yashbm45/You_Tube_Backend",
+      live: "https://github.com/Yashbm45/You_Tube_Backend",
       description:
-        "Blogify is a Spring Boot application for creating and managing blog posts with a user-friendly interface.",
+        "YouTube Backend is build using Node JS, Express JS and MongoDB. In this project JWT, Multer, Clouldinary, Bycript these services are utilised..",
     },
     {
       id: 3,
-      name: "Wheater Application",
-      image: "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/weather-forecast%2C-forecast-design-template-1b116d584952c0173edd2550f3630243_screen.jpg?ts=1672114084", // Placeholder image
-      github: "https://github.com/KunalBhat55/Currency-Exchange",
-      live: "https://currency-exchange-seven-inky.vercel.app/",
+      name: "Background Colour Changer - React JS ",
+      image: "https://www.freepik.com/premium-vector/ui-ux-agency-icon_168546885.htm#query=react%20logo&position=6&from_view=keyword&track=ais_user&uuid=21a8689d-daa7-4ed0-b3b7-59895976fbfc", // Placeholder image
+      github: "https://github.com/Yashbm45/Background_Color_Changer",
+      live: "https://github.com/Yashbm45/Background_Color_Changer",
       description:
-        "Wheather appliction java servelt project which shows realtime wheather in differnt cities.",
+        "Background colour changer application is build using React JS and tailwind CSS.",
     },
   ];
   const project = data;
